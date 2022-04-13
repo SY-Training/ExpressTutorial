@@ -109,3 +109,9 @@ tutorial/node_modules
 tutorial/public
 tutorial/routes
 tutorial/views
+
+express-locallibrary/bin
+express-locallibrary/node_modules
+express-locallibrary/public
+express-locallibrary/routes
+express-locallibrary/views
